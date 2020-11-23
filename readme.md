@@ -16,7 +16,7 @@ sudo su
 
 cd
 
-git clone
+git clone https://github.com/gordonfrog/raspPi-boot.git
 
 mvn clean install
 
